@@ -1,8 +1,8 @@
 # Server part
 ./server
-build it using "mvn clean install" before any other steps
-Then run main class "GameServerApplication" from IDE
-This part is not interactive
+Build it using "mvn clean install" before any other steps.
+Then run main class "GameServerApplication" from IDE.
+This part is not interactive.
 
 # Observing client
 ./observing-client
